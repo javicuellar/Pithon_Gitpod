@@ -1,2 +1,2 @@
 # Pithon_Gitpod
-Prueba Gitpod con python
+Prueba Gitpod y Codespace de GitHub con python
